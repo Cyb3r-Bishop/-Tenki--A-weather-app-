@@ -1,4 +1,4 @@
-const apiKey = "c9736117030502313f7c99730745f9d8";
+const apiKey = "Put your own APIkey";
 
 
 //* 1:1:44
