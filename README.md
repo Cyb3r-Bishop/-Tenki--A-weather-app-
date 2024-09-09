@@ -1,16 +1,26 @@
-# weather_app_flutter_2_33
 
-A new Flutter project.
+# Weather App (天Tenki)
 
-## Getting Started
+By using Open Weather Map API key this app predict the weather of your area ourly and daily bases.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Android & ios APK:
+https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/tree/main/apks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+![App Screenshot](https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/blob/main/Screenshots/1.jpg)
+
+![App Screenshot](https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/blob/main/Screenshots/2.jpg)
+
+![App Screenshot](https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/blob/main/Screenshots/3.jpg)
+
+![App Screenshot](https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/blob/main/Screenshots/4.jpg)
+
+![App Screenshot](https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/blob/main/Screenshots/5.jpg)
+
+![App Screenshot](https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/blob/main/Screenshots/6.jpg)
+
