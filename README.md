@@ -9,4 +9,4 @@ Android & iOS APK:
 
 ## Screenshots
 
-<img src="https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/blob/main/Screenshots/Arif%20App%202.png" width="300"/>
+<img src="https://github.com/Cyb3r-Bishop/-Tenki--A-weather-app-/blob/main/Screenshots/Arif%20App%202.png" width="600" height="600"/>
